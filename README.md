@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithabhayarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janithabhayarathna" /> </p>
 
-<p align="left"> <a href="https://twitter.com/janith__a" target="blank"><img src="https://img.shields.io/twitter/follow/janith__a?logo=twitter&style=for-the-badge" alt="janith__a" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java, Python, Kotlin**
@@ -29,6 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janithabhayarathna&show_icons=true&locale=en&layout=compact" alt="janithabhayarathna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janithabhayarathna&show_icons=true&locale=en" alt="janithabhayarathna" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithabhayarathna&" alt="janithabhayarathna" /></p>
